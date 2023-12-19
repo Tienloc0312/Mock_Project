@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Fast & Furious X",
+    "price": 33,
+    "type": [ "Action"],
+    "actor": ["vin Diesel", "Michelle Rodriguez", "Tyrese Gibson", "John Cena"],
+    "ratings": 5,
+    "year": 2023,
+    "view": 100,
+    "image": "1.jpeg",
+    "description": "Dominic Toretto and his team are requested by the Agency to steal a computer chip during its transit in Rome. Dom and his wife Letty Ortiz stay behind with his son Brian Little B Marcos, while the rest of the team, consisting of Roman Pearce, Tej Parker, Han Lue, and Ramsey, travels to Rome. A wounded Cipher arrives at Dom's home and informs him and Letty that Dante Reyes, the son of drug lord Hernan Reyes, has turned her crew against her and is using them to target Dom as revenge for his father's death and the loss of his family's fortune ten years prior."
+  },
+  {
+    "id": 2,
+    "name": "The Exorcist: Believer",
+    "price": 25,
+    "type": ["horror"],
+    "actor": ["Leslie Odom Jr.","Lidya Jewett","Jennifer Nettles"],
+    "ratings": 4.5,
+    "year": 2023,
+    "view": 200,
+    "image": "2.jpeg",
+    "description": "The Exorcist: Believer is a 2023 American supernatural horror film directed by David Gordon Green, who co-wrote the screenplay with Peter Sattler from a story by Scott Teems, Danny McBride, and Green. The sixth installment in The Exorcist franchise, it serves as a direct sequel to The Exorcist (1973).[5] The film stars Leslie Odom Jr., Lidya Jewett, Olivia O‘Neill in her film debut, Jennifer Nettles, Norbert Leo Butz, and Ann Dowd. Ellen Burstyn and Linda Blair reprise their roles from the original film. Its plot follows a photographer who must confront an evil when his daughter and her best friend are possessed."
+  },
+  {
+    "id": 3,
+    "name": "Talk to Me ",
+    "price":45 ,
+    "type": ["horror", "Drama"],
+    "actor": ["Sophie Wilde","Alexandra Jensen","Joe Bird","Otis Dhanji","Miranda Otto"],
+    "ratings": 3.8,
+    "year": 2023,
+    "view": 900,
+    "image": "3.jpeg",
+    "description": "At a crowded house party in Adelaide, Cole searches for his brother Duckett. When he finds Duckett and attempts to bring him home, Duckett stabs him in the shoulder before fatally stabbing himself in the face. Some time later, 17-year-old Mia is struggling with the second anniversary of her mother Rhea's suicide by overdose and her distant relationship with her father Max. Driving at night, Mia comes across a fatally injured kangaroo, but cannot bring herself to perform a mercy kill. Mia, her best friend Jade, and Jade's little brother Riley sneak out to one of many gatherings hosted by Hayley and Joss, where the main attraction is a severed and embalmed hand of mysterious origin. Holding the hand in a handshake position and saying talk to me enables someone to communicate with a deceased person's spirit, followed by saying I let you in to allow the spirit to possess them. In order to prevent spirits from binding themselves to that person, someone else must end the possession before 90 seconds by pulling away the embalmed hand and blowing out a candle to cut the connection. Mia volunteers to go first and is possessed by a spirit that displays a menacing focus on Riley. Joss and Hayley struggle to break the connection, only managing to do so after the time limit has been slightly exceeded."
+  },
+  {
+    "id": 4,
+    "name": "Love Reset",
+    "price": 21,
+    "type": ["Comedy","Drama"],
+    "actor": ["Kang Ha-neul", "Jung So-min"],
+    "ratings": 4.5,
+    "year": 2023,
+    "view": 800,
+    "image": "4.jpeg",
+    "description": "Despite heavy opposition from family, Jeong-yeol and Na-ra succeed in getting married through the sheer power of love. But fast forward two years, and the two are leaving a courthouse after receiving a 30-day divorce settlement period, when a car accident causes them to lose both their memories. The amnesia-stricken couple quickly fall for each other again, and their family members devise an elaborate 30-day plan to recall their memories and complete the divorce."
+  },
+  {
+    "id": 5,
+    "name": "The Roundup: No Way Out",
+    "price": 50,
+    "type": ["Action", "Drama", "Comedy"],
+    "actor": ["Ma Dong-seok", "Lee Joon-hyuk", "Munetaka Aoki"],
+    "ratings": 4.8,
+    "year": 2023,
+    "view": 500,
+    "image": "5.jpeg",
+    "description": "Iron Man is a superhero appearing in American comic books published by Marvel Comics. Co-created by writer and editor Stan Lee, developed by scripter Larry Lieber, and designed by artists Don Heck and Jack Kirby, the character first appeared in Tales of Suspense #39 in 1963, and received his own title with Iron Man #1 in 1968."
+  },
+  {
+    "id": 6,
+    "name": "Mary Shelley's Frankenstein",
+    "price": 16,
+    "type": [ "horror"],
+    "actor": ["Robert De Niro", "Kenneth Branagh", "Tom Hulce"],
+    "ratings": 3.6,
+    "year": 1994,
+    "view": 2000,
+    "image": "7.jpeg",
+    "description": "In 1794, Captain Walton leads a troubled expedition to reach the North Pole. While their ship is trapped in the ice of the Arctic Sea, the crew hears a frightening noise and witnesses a mysterious figure killing their sled dogs before vanishing. The crew rescues a man, Victor Frankenstein, who had fallen in the Arctic waters. When Walton tells Victor of his determination to continue the expedition, Victor replies, Do you share my madness? He proceeds to tell Walton and the crew his life story, presented in flashback."
+  }
+]
